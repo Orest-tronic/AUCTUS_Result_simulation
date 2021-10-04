@@ -5,4 +5,5 @@ Pour un environnement comme celui de **UBUNTU 20** qui prend en considration ROS
 ### Quelques Résultats
 Afin de visualiser le robot sur RVIZ, il a juste fallu appliquer la commande:<br/> `roslaunch velocity_qp run.launch sim:=true`<br/> dans un terminal.<br/><br/> ![](RVIZ_1.PNG) <br/><br/>
 Puis dans un nouveau terminal, entrer la commande `rosrun velocity_qp load_trajectory.py circle` afin lire le fichier définissant la trajectoire circulaire à suivre par le robot comme décrit et affiché sur RVIZ. <br/> <br/> ![](trajectoire.PNG)<br/><br/>
-Il suffira dès lors de lancer le service `rosservice call /velocity_qp/updateUI "play_traj : true` afin de débuter la simulation.<br/><br/> ![](video_Auctus.WMV)
+Il suffira dès lors de lancer le service `rosservice call /velocity_qp/updateUI "play_traj : true` afin de débuter la simulation.<br/><br/> ![](video_Auctus.gif) <br/> <br/> 
+Désolé pour la qualité de la vidéo, elle a été faite en express. :grimacing:
