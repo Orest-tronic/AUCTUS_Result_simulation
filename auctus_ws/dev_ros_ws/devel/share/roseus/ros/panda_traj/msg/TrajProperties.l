@@ -1,0 +1,1 @@
+/home/orest/auctus_ws/dev_ros_ws/devel/.private/panda_traj/share/roseus/ros/panda_traj/msg/TrajProperties.l

@@ -1,0 +1,8 @@
+prefix=/home/orest/auctus_ws/dev_ros_ws/install
+
+Name: qp_solver
+Description: Description of qp_solver
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -lqp_solver
+Requires: roscpp qpOASES

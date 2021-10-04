@@ -1,0 +1,1 @@
+set(ORDERED_PATHS "/home/orest/auctus_ws/dev_ros_ws/devel/.private/qpOASES/lib;/opt/ros/melodic/lib")

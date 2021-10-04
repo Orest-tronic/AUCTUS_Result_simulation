@@ -1,0 +1,8 @@
+prefix=/home/orest/auctus_ws/dev_ros_ws/install
+
+Name: qpOASES
+Description: Description of qpOASES
+Version: 3.2.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -lqpOASES
+Requires: 

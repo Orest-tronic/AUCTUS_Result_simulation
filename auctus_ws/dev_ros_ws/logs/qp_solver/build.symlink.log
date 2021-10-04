@@ -1,0 +1,4 @@
+Symlinking /home/orest/auctus_ws/dev_ros_ws/devel/share/qp_solver/cmake/qp_solverConfig.cmake
+Symlinking /home/orest/auctus_ws/dev_ros_ws/devel/share/qp_solver/cmake/qp_solverConfig-version.cmake
+Symlinking /home/orest/auctus_ws/dev_ros_ws/devel/lib/libqp_solver.so
+Symlinking /home/orest/auctus_ws/dev_ros_ws/devel/lib/pkgconfig/qp_solver.pc

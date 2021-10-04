@@ -1,0 +1,1 @@
+/home/orest/auctus_ws/dev_ros_ws/devel/.private/panda_traj/lib/python2.7/dist-packages/panda_traj/msg/__init__.py

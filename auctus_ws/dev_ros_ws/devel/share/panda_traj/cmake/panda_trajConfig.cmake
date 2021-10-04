@@ -1,0 +1,1 @@
+/home/orest/auctus_ws/dev_ros_ws/devel/.private/panda_traj/share/panda_traj/cmake/panda_trajConfig.cmake

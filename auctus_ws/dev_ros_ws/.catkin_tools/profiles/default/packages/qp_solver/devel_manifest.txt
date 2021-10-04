@@ -1,0 +1,6 @@
+qp_solver
+/home/orest/auctus_ws/dev_ros_ws/devel/.private/qp_solver/cmake.lock /home/orest/auctus_ws/dev_ros_ws/devel/./cmake.lock
+/home/orest/auctus_ws/dev_ros_ws/devel/.private/qp_solver/share/qp_solver/cmake/qp_solverConfig.cmake /home/orest/auctus_ws/dev_ros_ws/devel/share/qp_solver/cmake/qp_solverConfig.cmake
+/home/orest/auctus_ws/dev_ros_ws/devel/.private/qp_solver/share/qp_solver/cmake/qp_solverConfig-version.cmake /home/orest/auctus_ws/dev_ros_ws/devel/share/qp_solver/cmake/qp_solverConfig-version.cmake
+/home/orest/auctus_ws/dev_ros_ws/devel/.private/qp_solver/lib/libqp_solver.so /home/orest/auctus_ws/dev_ros_ws/devel/lib/libqp_solver.so
+/home/orest/auctus_ws/dev_ros_ws/devel/.private/qp_solver/lib/pkgconfig/qp_solver.pc /home/orest/auctus_ws/dev_ros_ws/devel/lib/pkgconfig/qp_solver.pc

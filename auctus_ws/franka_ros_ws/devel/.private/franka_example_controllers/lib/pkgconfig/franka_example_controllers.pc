@@ -1,0 +1,8 @@
+prefix=/home/orest/auctus_ws/franka_ros_ws/devel/.private/franka_example_controllers
+
+Name: franka_example_controllers
+Description: Description of franka_example_controllers
+Version: 0.8.1
+Cflags: -I/home/orest/auctus_ws/franka_ros_ws/devel/.private/franka_example_controllers/include -I/home/orest/auctus_ws/franka_ros_ws/src/franka_example_controllers/include -I/opt/ros/melodic/include/libfranka
+Libs: -L${prefix}/lib -lfranka_example_controllers /opt/ros/melodic/lib/libfranka.so.0.8.0
+Requires: controller_interface dynamic_reconfigure eigen_conversions franka_hw franka_gripper geometry_msgs hardware_interface tf tf_conversions message_runtime pluginlib realtime_tools roscpp

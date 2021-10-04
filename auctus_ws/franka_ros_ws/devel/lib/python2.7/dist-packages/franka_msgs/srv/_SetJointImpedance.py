@@ -1,0 +1,1 @@
+/home/orest/auctus_ws/franka_ros_ws/devel/.private/franka_msgs/lib/python2.7/dist-packages/franka_msgs/srv/_SetJointImpedance.py

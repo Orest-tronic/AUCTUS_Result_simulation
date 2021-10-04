@@ -1,0 +1,1 @@
+/home/orest/auctus_ws/franka_ros_ws/devel/.private/franka_example_controllers/share/roseus/ros/franka_example_controllers/manifest.l

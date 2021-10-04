@@ -1,0 +1,1 @@
+/home/orest/auctus_ws/dev_ros_ws/devel/.private/velocity_qp/share/velocity_qp/cmake/velocity_qpConfig.cmake

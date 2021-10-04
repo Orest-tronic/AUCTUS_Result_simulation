@@ -1,0 +1,1 @@
+/home/orest/auctus_ws/dev_ros_ws/devel/.private/velocity_qp/lib/python2.7/dist-packages/velocity_qp/msg/__init__.py

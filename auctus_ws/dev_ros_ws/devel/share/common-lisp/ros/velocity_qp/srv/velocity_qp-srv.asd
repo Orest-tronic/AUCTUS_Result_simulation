@@ -1,0 +1,1 @@
+/home/orest/auctus_ws/dev_ros_ws/devel/.private/velocity_qp/share/common-lisp/ros/velocity_qp/srv/velocity_qp-srv.asd

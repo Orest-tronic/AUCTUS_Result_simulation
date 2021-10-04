@@ -1,0 +1,1 @@
+/home/orest/auctus_ws/dev_ros_ws/devel/.private/velocity_qp/share/roseus/ros/velocity_qp/srv/UI.l

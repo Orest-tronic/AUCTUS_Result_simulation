@@ -1,0 +1,8 @@
+prefix=/home/orest/auctus_ws/franka_ros_ws/devel/.private/franka_msgs
+
+Name: franka_msgs
+Description: Description of franka_msgs
+Version: 0.8.1
+Cflags: -I/home/orest/auctus_ws/franka_ros_ws/devel/.private/franka_msgs/include
+Libs: -L${prefix}/lib 
+Requires: message_runtime std_msgs actionlib_msgs

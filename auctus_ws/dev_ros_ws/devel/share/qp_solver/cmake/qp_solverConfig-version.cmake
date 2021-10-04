@@ -1,0 +1,1 @@
+/home/orest/auctus_ws/dev_ros_ws/devel/.private/qp_solver/share/qp_solver/cmake/qp_solverConfig-version.cmake

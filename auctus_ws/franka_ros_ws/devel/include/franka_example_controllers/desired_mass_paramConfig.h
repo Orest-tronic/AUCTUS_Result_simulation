@@ -1,0 +1,1 @@
+/home/orest/auctus_ws/franka_ros_ws/devel/.private/franka_example_controllers/include/franka_example_controllers/desired_mass_paramConfig.h

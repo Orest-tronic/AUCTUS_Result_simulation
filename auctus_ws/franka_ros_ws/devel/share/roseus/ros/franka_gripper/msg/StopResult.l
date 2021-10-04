@@ -1,0 +1,1 @@
+/home/orest/auctus_ws/franka_ros_ws/devel/.private/franka_gripper/share/roseus/ros/franka_gripper/msg/StopResult.l

@@ -1,0 +1,1 @@
+/home/orest/auctus_ws/franka_ros_ws/devel/.private/franka_hw/share/franka_hw/cmake/franka_hwConfig-version.cmake
